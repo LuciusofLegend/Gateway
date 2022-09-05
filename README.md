@@ -7,9 +7,8 @@ Feel free to contribute and early pull request :)
 
 - A fun, open world experience
 - Polished gameplay and visuals
-- An open ear to community feedback
-- Sensible code allowing for customization
-- Releasing content as individual mods for further use
+- Open to community feedback
+- Code repackaged as individual mods
 
 Issues and suggestions regarding these goals are more than welcome!
 
@@ -22,6 +21,6 @@ We will use `major.minor.patch`
  - minor is used when the release includes no breaking changes.  Patch is set to 0.
  - patch is for non-breaking bugfixes or similar changes.
  
- If you see -dev after a version number, it means that this is a non-finalized release.  Mods or texture packs based on developement versions are unsupported.
+ beta.x after the version number symbolizes a non-final release.  Mods or texture packs based on developement versions *will not be supported*.
  
-**A roadmap will be added when the project is further along**
+**A roadmap will be added later in developement**
