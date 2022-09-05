@@ -24,4 +24,4 @@ We will use `major.minor.patch`
  
  If you see -dev after a version number, it means that this is a non-finalized release.  Mods or texture packs based on developement versions are unsupported.
  
-**A roadmap will be added when the project is further along
+**A roadmap will be added when the project is further along**
