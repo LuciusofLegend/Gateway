@@ -22,4 +22,6 @@ We will use `major.minor.patch`
  - minor is used when the release includes no breaking changes.  Patch is set to 0.
  - patch is for non-breaking bugfixes or similar changes.
  
+ If you see -dev after a version number, it means that this is a non-finalized release.  Mods or texture packs based on developement versions are unsupported.
+ 
 #### Roadmap coming soon
