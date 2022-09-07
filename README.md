@@ -6,7 +6,8 @@ Feel free to contribute and early pull request :)
 ### Project Goals
 
 - Simple building and engaging adventures
-- Cohesive gameplay and visuals
+- Cohesive experience
+- Nice visuals
 - Responsiveness to feedback
 - Compatibility
 
@@ -21,6 +22,6 @@ We will use `major.minor.patch`
  - minor is used when the release includes no breaking changes.  Patch is set to 0.
  - patch is for non-breaking bugfixes or similar changes.
  
- A "-beta.x" after the version number symbolizes a non-final release.  Mods or texture packs based on developement versions *will not be supported*.
+ A "-beta.x" after the version number symbolizes a non-final or testing release.  Mods or texture packs based on developement versions *will not be supported*.
  
 **A roadmap will be added later in developement**
