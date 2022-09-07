@@ -5,12 +5,12 @@ Feel free to contribute and early pull request :)
 
 ### Project Goals
 
-- A fun, open world experience
-- Polished gameplay and visuals
-- Open to community feedback
-- Code repackaged as individual mods
+- Simple building and engaging adventures
+- Cohesive gameplay and visuals
+- Responsiveness to feedback
+- Compatibility
 
-Issues and suggestions regarding these goals are more than welcome!
+If you see anything we can change to better meet these goals, *please* make an issue!
 
 
 ### Version Scheme
