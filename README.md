@@ -1,6 +1,6 @@
 ## Gateway
 
-Gateway is an alternative base to Minetest modding, with the goal of setting a higher standard for Minetest content.  If you don't know what Minetest is, here's a link [to the website](https://minetest.net).
+Gateway is an alternative base to Minetest modding, with the goal of setting a higher standard for Minetest content.  If you don't know what Minetest is, here's a link to [the website](https://minetest.net).
 
 ### Project Goals
 
