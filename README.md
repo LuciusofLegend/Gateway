@@ -1,6 +1,6 @@
 ## Gateway
 
-Gateway is a new and improved base for Minetest modding.  The project aims to set a higher standard for content on the [Minetest engine](https://minetest.net) with improved textures, physics and combat.  It also hopes to be better organized than [Minetest Game](https://github.com/minetest/minetest_game).
+Gateway is an alternative base to Minetest modding, with the goal of setting a higher standard for Minetest content.  If you don't know what Minetest is, here's a link [to the website](https://minetest.net).
 
 ### Project Goals
 
@@ -8,6 +8,7 @@ Gateway is a new and improved base for Minetest modding.  The project aims to se
 - Improved physics
 - Engaging combat
 - Easy-to-understand file structure
+- Other cool features
 
 ### Notes
 We will be listening intently to any and all of your feedback!  If you have a suggestion to help us meet these goals, please make an issue :)
