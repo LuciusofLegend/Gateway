@@ -1,18 +1,20 @@
-## Terrasmith
+## Gateway
 
-Terrasmith is a free, open source, medieval sandbox adventure game, created using the [Minetest engine](https://github.com/minetest/minetest).  
-Feel free to contribute and early pull request :)
+Gateway is a new and improved base for Minetest modding.  The project aims to set a higher standard for content on the [Minetest engine](https://minetest.net) with improved textures, physics and combat.  It also hopes to be better organized than [Minetest Game](https://github.com/minetest/minetest_game).
 
 ### Project Goals
 
-- Simple building and engaging adventures
-- Cohesive experience
-- Nice visuals
-- Responsiveness to feedback
-- Compatibility
+- Nice textures
+- Improved physics
+- Engaging combat
+- Easy-to-understand file structure
 
-If you see anything we can change to better meet these goals, *please* make an issue!
+### Notes
+We will be listening intently to any and all of your feedback!  If you have a suggestion to help us meet these goals, please make an issue :)
 
+We plan to have mod jams in the future, in order to let you show off your modding skills and test the quality of this project.
+
+A roadmap will be added in the future as well.
 
 ### Version Scheme
 
@@ -22,6 +24,4 @@ We will use `major.minor.patch`
  - minor is used when the release includes no breaking changes.  Patch is set to 0.
  - patch is for non-breaking bugfixes or similar changes.
  
- A "-beta.x" after the version number symbolizes a non-final or testing release.  Mods or texture packs based on developement versions *will not be supported*.
- 
-**A roadmap will be added later in developement**
+ A "-beta.x" after the version number symbolizes a non-final or testing release.  We don't recommend using such verisons for your mod.
