@@ -7,7 +7,7 @@ Gateway is a new and improved base for Minetest modding.  The project aims to se
 - Nice textures
 - Improved physics
 - Engaging combat
-- Easy-to-read file structure
+- Easy-to-understand file structure
 
 ### Notes
 We will be listening intently to any and all of your feedback!  If you have a suggestion to help us meet these goals, please make an issue :)
