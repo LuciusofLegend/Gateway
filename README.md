@@ -1,6 +1,16 @@
 ## Gateway
 
-Gateway is a new and improved base for Minetest modding.  The project aims to set a higher standard for content on the [Minetest engine](https://minetest.net) with improved textures, physics and combat.  It also hopes to be better organized than [Minetest Game](https://github.com/minetest/minetest_game).
+Gateway is an alternative base to Minetest modding, with the goal of setting a higher standard for Minetest content.  If you don't know what Minetest is, here's a link to [the website](https://minetest.net).
+
+### Info
+Gateway will be realeased in three main forms:  As a modpack, as individual mods, and as a game.<br/>
+There will be a few gists too (things like minetest.conf for the physics).
+
+We are looking for contributors and testers!  If you have an interest in pixel art, sound design, procedural generation or coding, we'll have something for you to help with.  And if you're a modder, you can let us know how good of a base it makes for your own mods.
+
+We plan to have mod jams in the future, in order to let you show off your modding skills and test the quality of this project.
+
+Proper feedback is very important for open source projects.  If you find a bug or something that bothers you, the best thing you can do is make an issue [here](https://github.com/LuciusofLegend/MT-Gateway/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc).  Thank you :D
 
 ### Project Goals
 
@@ -8,13 +18,7 @@ Gateway is a new and improved base for Minetest modding.  The project aims to se
 - Improved physics
 - Engaging combat
 - Easy-to-understand file structure
-
-### Notes
-We will be listening intently to any and all of your feedback!  If you have a suggestion to help us meet these goals, please make an issue :)
-
-We plan to have mod jams in the future, in order to let you show off your modding skills and test the quality of this project.
-
-A roadmap will be added in the future as well.
+- Other cool features
 
 ### Version Scheme
 
