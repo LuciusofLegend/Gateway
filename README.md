@@ -24,7 +24,7 @@ Proper feedback is very important for open source projects.  If you find a bug o
 
 We will use `major.minor.patch`
 
- - major is used when the release contains changes that break Gateway mods or texture packs (such as new nodes or changes to core functionality).  Other numbers are set to 0.
+ - major is used when the release contains changes that break mods or texture packs.  Other numbers are set to 0.
  - minor is used when the release includes no breaking changes.  Patch is set to 0.
  - patch is for non-breaking bugfixes or similar changes.
  
