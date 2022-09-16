@@ -1,12 +1,12 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {
-		"Lua.diagnostics.disable": [
-			"undefined-global"
-		]
-	}
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "Lua.diagnostics.disable": [
+            "undefined-global"
+        ]
+    }
 }
