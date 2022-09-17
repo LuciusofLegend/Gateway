@@ -7,5 +7,5 @@ minetest.register_node("nodes:stone", {
 minetest.register_node("nodes:water_source", {
     description = "Water Source",
     tiles = {"nodes_water.png"},
-    groups = {}
+    groups = {oddly_breakable_by_hand = 2}
 })
