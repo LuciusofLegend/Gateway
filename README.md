@@ -3,8 +3,7 @@
 Gateway is a sandbox adventure game made with the [Minetest Engine](https://minetest.net).  It's inspired by Minecraft and Hytale, and aims to be extrememly open to modding.
 
 ### Info
-Gateway will be realeased in three main forms:  As a modpack, as individual mods, and as a game.<br/>
-There will be a few gists too (things like minetest.conf for the physics).
+Gateway will be realeased as a game on [ContentDB](https://content.minetest.net/), but zip files of each individual mod will be available on the [Github Actions page](https://github.com/LuciusofLegend/MT-Gateway/actions)
 
 We are looking for contributors and testers!  If you have an interest in pixel art, sound design, procedural generation or coding, we'll have something for you to help with.
 
