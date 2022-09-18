@@ -17,7 +17,7 @@ Proper feedback is very important for open source projects.  If you find a bug o
 - Nice textures
 - Improved physics
 - Engaging combat
-- Easy-to-understand file structure
+- Easy-to-navigate file structure
 - Other cool features
 
 ### Version Scheme
